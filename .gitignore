@@ -1,4 +1,3 @@
-
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -37,3 +36,6 @@ build/
 data/
 *.mv.db
 *.trace.db
+
+### Local Config ###
+**/application-local.yml  # ✅ Don't commit local config

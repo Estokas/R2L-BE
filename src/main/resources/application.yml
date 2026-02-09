@@ -31,7 +31,8 @@ server:
 app:
   github:
     api-url: https://api.github.com
-    token: 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
+    token: ${GITHUB_TOKEN}
+#    token: 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
 
   ollama:
     api-url: http://localhost:11434
