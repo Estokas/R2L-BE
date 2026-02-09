@@ -1,0 +1,4 @@
+# Local development overrides
+app:
+  github:
+    token: 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
